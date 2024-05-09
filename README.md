@@ -20,5 +20,5 @@ Pour intégrer la fonctionnalité de paiement de Flouci dans votre application, 
 - Thymeleaf
 - OkHttpClient : OkHttpClient est une bibliothèque HTTP pour Java qui simplifie l'envoi de requêtes HTTP et la réception de réponses. Elle est utilisée ici pour envoyer des requêtes à l'API Flouci et traiter les réponses.
 
-# Documentation API Flouci
+## Documentation API Flouci
 Consultez la documentation officielle de l'API Flouci Payment pour des informations détaillées sur l'intégration et l'utilisation des API de paiement Flouci : [Flouci Payment APIs Documentation](https://flouci.stoplight.io/docs/flouci-payment-apis/6c9b5ad7358c9-fr-flouci-payment-api)
